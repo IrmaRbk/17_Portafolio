@@ -1,0 +1,39 @@
+/* Inserte su codigo aqui    */
+
+
+button{
+	background-color: #FFAE19;
+	padding: 10px;
+	border-style:none;
+	margin-top: 20px;
+	margin-left: 100px;
+	font-size: 15px;
+}
+
+p{
+	font-size: 30px;
+	margin-top: 100px;
+}
+
+.fondo{
+	background-color: #ffde19;
+	height: 400px ;
+}
+
+li{
+	display: inline-block;
+	margin: 20px;	
+}
+
+
+.foto{
+	height: 300px ;
+	width: 400px ;
+	margin: 2px;
+}
+
+.gris{
+	background-color: gray; 
+	height: 200px ;
+}
+
